@@ -1,0 +1,6 @@
+<OpenSearchDescription>
+<ShortName>searx</ShortName>
+<Description>Search searx</Description>
+<Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4AcBCjE21HwdqgAAAdVJREFUOMutk7%2FLUnEUxp97%2FXr1erk%2FxLiIXgobsslBm2ptMXFucGwIcZEgUKKl%2FgQHW6W5rUlak4YQzEl8CZMUzNRQkbzE92nId%2BjNIqyzHM7hPB%2FOgecA%2FykuAYCmaef1NUVRbgGIA4Cqquf9yDHxFQBPD4M3TdP8ZFkWHcehZVk0DOMdgMuH2RfHADcAUFXVh7Zts1KpcDweU0rJXq%2FHYrFI27YJ4AEA%2Fu4EmqbJer1OkpRS%2FpQLhQJ1XSeA5VG1oiiNaDTK5XLJzWbD4XDIWq3GyWTC9XrNTqdDx3EI4P5FrQAAIcQHz%2FNAEr7vo1qtotvtYjQaodFoIBaLQVVVKIryluSvAJLvZ7MZ5vM5AoEA8vk8ptMpyuUyFosFRqMRSILkl4sbBABASnkWDAYfG4YBz%2FOQSqVQKpVAEvv9Hs1mE4PBYOH7fv0o4AdDfu33%2B7d1XYfruliv11itVmi1Wmi32wiHw6%2B32%2B3zP7pJ07RHjuMwmUwyk8nQdV3ati1VVZ2ZpknP8978jSsjQoh7oVDoiRDi7qEXBHAWiUSYTCY%2F5nI561TLv9I0jYlEYpdOp6%2BeCnkmhGA8Hmc2m70eOAHwUkr5ebfb3dE07du%2FfLADAN8B3brNMSrkcyIAAAAASUVORK5CYII%3D</Image><InputEncoding>UTF-8</InputEncoding>
+<LongName>searx metasearch</LongName><Url type="text/html" method="post" template="httpS://URL-ADRESS/">
+<Param name="q" value="{searchTerms}"/></Url></OpenSearchDescription>
